@@ -14,4 +14,5 @@ source/lib/*
 !source/lib/anime.min.js
 !source/lib/velocity/
 !source/lib/pjax
+!source/lib/fancybox
 
